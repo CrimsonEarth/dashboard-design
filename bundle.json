@@ -1,0 +1,17 @@
+{
+  "format_version": 1,
+  "name": "dashboard-workflow",
+  "status": "public-preview",
+  "deployment_unit": "whole-bundle-preserve-layout",
+  "skills": [
+    "skills/dashboard-discovery",
+    "skills/dashboard-prototyping",
+    "skills/dashboard-evaluation"
+  ],
+  "shared_references": "references",
+  "downstream_capabilities": [
+    "to-spec",
+    "to-tickets"
+  ],
+  "evidence_status": "structural checks and bounded review only; no demonstrated efficacy advantage"
+}
